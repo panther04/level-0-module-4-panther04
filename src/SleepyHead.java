@@ -10,6 +10,42 @@ public class SleepyHead {
     public static void main(String[] args) {
         
         boolean isWeekday, isVacation;
+        //Ask the user if it is a weekday.
+        String sleep=JOptionPane.showInputDialog("Is it a weekday?");
+        
+        //if they say "yes", tell them to sleep in.
+        
+        //otherwise tell them to wake up.
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         /*
          * Ask the user for these values using
